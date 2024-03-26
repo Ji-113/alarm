@@ -1,7 +1,11 @@
-        body {
-            font-family: Arial, 'メイリオ', sans-serif;
-            text-align: center;
-        }
+
+html, body {
+  font-family: 'serif','ＭＳ Ｐ明朝';
+  font-size: 16px;
+  background-color: #F0F8FF;
+  text-align: center;
+}
+
         #timerText {
             color: #00aaff;
             font-size: 148px;
