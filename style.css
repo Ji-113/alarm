@@ -5,6 +5,12 @@ html, body {
   background-color: #F0F8FF;
   text-align: center;
 }
+h1 {
+  color: #00FF7F;
+  text-align: center;
+  font-size: 2rem;
+  margin: 3rem;
+}
 
         #timerText {
             color: #00aaff;
