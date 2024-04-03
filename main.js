@@ -81,7 +81,7 @@
                     //アラーム機能
                     for (var i = 0, len = record.length; i < len; i++){
                         if (record[i].sethour == currentDate.getHours() && record[i].setminute == currentDate.getMinutes() && seconds == 0){
-                            alert('The time is now!');
+                            alert('早よ起きろやボケェ💢');
                         };
                     };
                     updateCurrentTime();
